@@ -1,22 +1,7 @@
-<img width="320" height="240" alt="472" src="https://github.com/user-attachments/assets/ffe34ba8-d4e1-46ce-a7c3-8213fb9a282c" />
+<img width="448" height="600" alt="395" src="https://github.com/user-attachments/assets/4c03c030-b0e6-4d01-882e-724736ac11d6" />
 
-
-
-
-
-
-
-<!--
-**mattekudasai81/mattekudasai81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hsoyro5pvbznx23e6wbra5b6va&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
